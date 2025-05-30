@@ -1,15 +1,9 @@
-
-import readContacts from "../utils/readContacts.js";
-
-
+import readContacts from '../utils/readContacts.js';
 
 export const getAllContacts = async () => {
-    return readContacts();
+  return readContacts();
 };
 
 console.log(await getAllContacts());
-
-
-
 
 // node src/scripts/getAllContacts
