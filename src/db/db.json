@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "2a5b33a0-0759-4872-b475-dc24756706a9",
+    "name": "Gustavo Donnelly",
+    "phone": "(664) 740-9229 x373",
+    "email": "Imani_Herman-Larkin98@hotmail.com",
+    "job": "Corporate Response Developer"
+  },
+  {
+    "id": "48f24e61-09e7-4e32-ae77-0f872ded7cb3",
+    "name": "Garry Bradtke",
+    "phone": "(361) 640-8868 x323",
+    "email": "Jordane77@gmail.com",
+    "job": "National Infrastructure Technician"
+  }
+]
