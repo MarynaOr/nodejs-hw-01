@@ -23,6 +23,6 @@ const generateContacts = async (number) => {
     return contacts;
 };
 
-generateContacts(1);
+generateContacts(2);
 
 // node src/scripts/generateContacts.js
